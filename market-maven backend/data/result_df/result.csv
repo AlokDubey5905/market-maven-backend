@@ -1,0 +1,10 @@
+,datetime,sentiment_company,sentiment_sector,sentiment_stock,sentiment_mode
+0,2023-07-25,neutral,negative,negative,negative
+1,2023-07-26,neutral,neutral,negative,neutral
+2,2023-07-27,neutral,negative,negative,negative
+3,2023-07-28,neutral,neutral,negative,neutral
+4,2023-07-31,neutral,positive,positive,positive
+5,2023-08-01,neutral,positive,negative,negative
+6,2023-08-02,neutral,neutral,negative,neutral
+7,2023-08-03,neutral,neutral,negative,neutral
+8,2023-08-04,neutral,neutral,positive,neutral
